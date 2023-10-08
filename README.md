@@ -1,1 +1,2 @@
-# hola_mundo
+# Hola, Mundo
+Primer programa \_**típico**\_ en Python.
